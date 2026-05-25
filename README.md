@@ -1,6 +1,3 @@
-# AI-Evaluation-Learning
-My AI Evaluation Learning Journal
-
 # AI Evaluation Learning Journal
 
 Repository ini berisi dokumentasi praktik mandiri saya dalam memahami AI, mulai dari pemrosesan data hingga teknik klasifikasi.
