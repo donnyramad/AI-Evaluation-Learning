@@ -1,15 +1,17 @@
 # AI-Evaluation-Learning
 My AI Evaluation Learning Journal
 
-Repository ini adalah dokumentasi proses belajar saya dalam memahami logika AI, evaluasi model, dan otomatisasi data.
+# AI Evaluation Learning Journal
 
-Tujuan: Mengasah kemampuan teknis untuk peran AI Trainer & Data Specialist.
-Skill yang sedang dipelajari:
+Repository ini berisi dokumentasi praktik mandiri saya dalam memahami AI, mulai dari pemrosesan data hingga teknik klasifikasi.
 
-Python untuk data manipulation
+## Proyek Saat Ini:
+- **Sentiment Analysis Basic:** Skrip Python untuk klasifikasi sentimen komentar menggunakan logika berbasis aturan (Rule-based).
 
-Prompt Engineering (Chain-of-Thought)
+## Tools:
+- Google Colab (Development Environment)
+- Python (Pandas Library)
+- GitHub (Version Control)
 
-Analisis & Klasifikasi Data
-
-Status: [Active Learning]
+## Tujuan:
+Memastikan akurasi data dan memahami alur kerja human-in-the-loop dalam melatih model AI.
